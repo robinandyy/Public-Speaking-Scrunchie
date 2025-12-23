@@ -1,6 +1,3 @@
-
-> Open this page at [https://robinandyy.github.io/public-speaking-scrunchie/](https://robinandyy.github.io/public-speaking-scrunchie/)
-
 ## Introducing the Public Speaking Scrunchie!
 ### check out the demo here: https://youtu.be/84b06bRr3fk 
 
