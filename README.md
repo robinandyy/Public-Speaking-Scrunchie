@@ -1,6 +1,5 @@
 
 > Open this page at [https://robinandyy.github.io/public-speaking-scrunchie/](https://robinandyy.github.io/public-speaking-scrunchie/)
->
 > Watch the demo here: https://youtu.be/84b06bRr3fk 
 
 ## Introducing the Public Speaking Scrunchie!
