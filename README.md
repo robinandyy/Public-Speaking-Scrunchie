@@ -1,8 +1,8 @@
 
 > Open this page at [https://robinandyy.github.io/public-speaking-scrunchie/](https://robinandyy.github.io/public-speaking-scrunchie/)
-> Watch the demo here: https://youtu.be/84b06bRr3fk 
 
 ## Introducing the Public Speaking Scrunchie!
+### check out the demo here: https://youtu.be/84b06bRr3fk 
 
 The Micro:bit comes with many sensors and functionalities, but when I thought about the accelerometer's ability to detect movement, and the microphone's ability to detect sound, my brain went to public speaking and my time at Toastmasters International. 
  
